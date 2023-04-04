@@ -9,16 +9,20 @@ body {
 	background-color: #fffcf8;
 }
 
+.col-md-3 {
+  background-color: #735582 /* Set the background color for the side columns */
+}
+
+
 /* Changing the background colour for the header */
 
 header {
-	background-color: #000060;
+	background-color: #E8E6E7;
 }
 
 /* Changing the background color for the navigation bar */
-
 .navbar {
-	background-color: #735582;
+	background-color: #735582; 
 }
 
 .nav-link {
@@ -40,5 +44,5 @@ footer a:hover {
 }
 
 .hero-section {
-	margin-top: 45px;
+	margin-top: 80px;
 	}

@@ -5,7 +5,7 @@
 /* Changing the main font and background colour */
 
 body {
-	font-family: Raleway, sans-serif;
+	font-family: 'Tomorrow', sans-serif;
 	background-color: #fffcf8;
 }
 
@@ -18,8 +18,13 @@ header {
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #fff0e0;
+	background-color: #735582;
 }
+
+.nav-link {
+	color: #D3BF8C;
+}
+
 
 /* Effect on social media buttons */
 
@@ -33,3 +38,7 @@ footer a:hover {
 	color: #800000;
 	font-weight: bold;
 }
+
+.hero-section {
+	margin-top: 45px;
+	}

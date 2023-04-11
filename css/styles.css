@@ -46,3 +46,8 @@ footer a:hover {
 .hero-section {
 	margin-top: 80px;
 	}
+
+.main-text {
+	font-family: 'Tomorrow', sans-serif;
+	background-color: #fffcf8;
+}

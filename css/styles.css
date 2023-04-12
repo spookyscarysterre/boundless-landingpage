@@ -9,6 +9,7 @@ body {
 	background-color: #fffcf8;
 }
 
+
 .col-md-3 {
   background-color: #735582 /* Set the background color for the side columns */
 }
@@ -47,7 +48,15 @@ footer a:hover {
 	margin-top: 80px;
 	}
 
+.bottom-section {
+	margin-bottom: 80px;
+}
+
 .main-text {
 	font-family: 'Tomorrow', sans-serif;
 	background-color: #fffcf8;
+}
+
+.color-title {
+	font-color: #735582;
 }

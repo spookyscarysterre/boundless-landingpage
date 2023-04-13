@@ -9,6 +9,18 @@ body {
 	background-color: #fffcf8;
 }
 
+h1 {
+	color: #735582;
+}
+
+h2 {
+	color: #8141A2;
+}
+
+h3{
+	color: #FFA043;
+}
+
 
 .col-md-3 {
   background-color: #735582 /* Set the background color for the side columns */
@@ -61,7 +73,5 @@ footer a:hover {
 	background-color: #fffcf8;
 }
 
-.color-title {
-	font-color: #735582;
-}
+
 

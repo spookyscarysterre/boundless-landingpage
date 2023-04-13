@@ -6,7 +6,7 @@
 
 body {
 	font-family: 'Tomorrow', sans-serif;
-	background-color: #fffcf8;
+	background-color: #FFFCF8;
 }
 
 h1 {
@@ -23,6 +23,7 @@ h3{
 
 footer {
 	color: #735582;
+	background-color: #DECEA6;
 }
 
 .col-md-3 {
@@ -76,9 +77,5 @@ footer a:hover {
 	background-color: #fffcf8;
 }
 
-.display {
-	display: flex;
-	justify-content: 
-}
 
 
